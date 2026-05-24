@@ -1,0 +1,15 @@
+export const CONTACT = {
+  brand: "Explain Concept",
+  tagline: "Photography that speaks louder than words",
+  whatsappNumber: "07069617663",
+  whatsappLink: "https://wa.me/2347069617663",
+  callNumber: "07089150029",
+  callLink: "tel:+2347089150029",
+  tiktok: "@explainconcept",
+  tiktokLink: "https://www.tiktok.com/@explainconcept",
+  instagram: "@explain_da_oluya",
+  instagramLink: "https://www.instagram.com/explain_da_oluya",
+  location: "4-3 Ilo Awela Rd, Ota 112104, Ogun State, Nigeria",
+  mapsLink: "https://www.google.com/maps/search/?api=1&query=4-3+Ilo+Awela+Rd+Ota+112104+Ogun+State+Nigeria",
+  email: "bookings@explaindaoluya.com",
+};
